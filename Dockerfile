@@ -1,1 +1,1 @@
-FROM quay.io/cephcsi/cephcsi:v3.8.0
+FROM registry.k8s.io/sig-storage/csi-provisioner:v3.4.0
